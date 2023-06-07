@@ -1,6 +1,6 @@
 # Карточка и неоновая кнопка на языке HTML и CSS
 ## Пример работы
-
+![ezgif-2-7fef9b4b5a](https://github.com/Sazukiro/Card-and-Neon-Button/assets/133951840/2e8d39e6-a6c9-455b-806e-70b0e32ceca1)
 ## Описание кода
 Сам код написан на двух языках программирования: HTML, CSS.
 Основным ядром, если так можно выразиться, данного кода можно назвать файл HTML "Card and Neon Button.html".
