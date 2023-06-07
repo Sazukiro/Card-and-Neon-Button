@@ -53,4 +53,8 @@
     transition-delay: 1s;
 }
 ```
-ССылка на код:
+# ССылка на код: 
+**https://github.com/Sazukiro/Card-and-Neon-Button/tree/main/Card%20and%20Neon%20Button**
+# Ссылка на теоретический материал:
+[![CSS фичи #17 анимированная неоновая кнопка | CSS3 Button Style Neon Style](https://i.ytimg.com/vi/__rxApMI_Us/maxresdefault.jpg)](https://www.youtube.com/watch?v=__rxApMI_Us)
+
